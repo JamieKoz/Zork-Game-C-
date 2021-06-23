@@ -1,0 +1,13 @@
+C:\Users\Jamie\code\CsharpCode\bin\Debug\netcoreapp3.1\CsharpCode.exe
+C:\Users\Jamie\code\CsharpCode\bin\Debug\netcoreapp3.1\CsharpCode.deps.json
+C:\Users\Jamie\code\CsharpCode\bin\Debug\netcoreapp3.1\CsharpCode.runtimeconfig.json
+C:\Users\Jamie\code\CsharpCode\bin\Debug\netcoreapp3.1\CsharpCode.runtimeconfig.dev.json
+C:\Users\Jamie\code\CsharpCode\bin\Debug\netcoreapp3.1\CsharpCode.dll
+C:\Users\Jamie\code\CsharpCode\bin\Debug\netcoreapp3.1\CsharpCode.pdb
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.csprojAssemblyReference.cache
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.AssemblyInfoInputs.cache
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.AssemblyInfo.cs
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.dll
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.pdb
+C:\Users\Jamie\code\CsharpCode\obj\Debug\netcoreapp3.1\CsharpCode.genruntimeconfig.cache

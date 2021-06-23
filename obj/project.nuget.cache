@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uI/p8Xa2FpYpYIr9KIT+ABxZvqZgJA2Ib/J2ss4UCE0DS6Tl/2FCkBcflUpjUUsXdfKAUpjFiqRBQzOhqQ/5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamie\\code\\CsharpCode\\CsharpCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jamie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
